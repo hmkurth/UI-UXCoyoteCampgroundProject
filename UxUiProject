@@ -1,0 +1,40 @@
+esktop Mockups
+Expain your design decisions and what changes you made to the original wireframe. You may choose to include an image of the original wireframe as a comparison.
+Heather Kurth
+Coyote campground
+Key Task, reserve a campsite
+
+    The changes I made to the original desktop mockup include decreasing the amount of text content and focusing action items.
+I included less content on the homepage, as we learned that people don't really read that much of the text anyways.
+The text I did include gave the most compelling reasons to buy the product.  The action item, the large reserve pawprint button,
+is colored in orange and located directly in front on the home page and mobile mockup.  This icon is then repeated for every action/submission
+button in the next pages. It is also used as a progress indicator telling the user what step of the process they are on.
+I really wanted to create a neat progress bar with footprints being filled in as the user progressed, but after going down hours
+ worth of figma wormholes I had to abandon that idea.
+After thinking about it some more, I probably could have included some more whitespace in the design,
+but at the time, those areas just seemed so empty that i added the events and campground map to the homepage.
+  I also added some compelling photos that extend below the fold to entice users to scroll down, but now that i think about it,
+there really isn't a compelling reason to go that far down because all the really important content is above the fold anyways.
+
+    This design should meet the user goals of having a simple straight-forward path to getting a campsite.
+    Some of the frustrations noted by the users were:
+        -too much text
+        -disorganization, lack of clarity
+        -lack of maps
+        -wasted time
+    I addressed these issues by trying to create an easy to understand process; pick by date, or by site, and see what's available.
+    I got rid of huge blocks of text, I added maps for users to explore all the different activities and areas. There are links to local activities and enrichments
+    to meet the user goals of connecting with nature, making great memories, and just generally relaxing.
+          I think that my design and colors lead to a relaxed, unassuming feel; not too 'techy' and not too 'chic'.  While the design may not appeal as much to the young and hip crowd,
+    it's my feeling that camping transcends all those notions.  I wanted natural colors, greens, beige, and an orange color for contrast.  I wanted to get some rustic wood imagery into the design,
+    which was harder than i thought due to scaling and pixelation, and copyrights.  Of course i needed coyote imagery, so there is a logo of a howling coyote.  That image evokes solitude, maybe even a
+    bit of loneliness, which may appeal to user goals of taking a break, relaxing.
+
+    The mobile version was altered by including a pullout 'drawer' for main navigation links, as well as 3 useful and easy to reach and press buttons on the bottom.
+    The call to action, reservation pawprint button is front and center and large, recognizable from the home page.
+    There is a button for logging in with a fingerprint, which is a great and easy way for mobile users to quickly and efficiently check their accounts.
+    There is a button for google maps, which is a likely need for mobile users, as well as a call button to easily connect with the campground while on the road.
+    The navigation drawer can be pulled out by grabbing or swiping the hand to reveal all of the main navigation.  All of these actions should be easily accessible by thumb.
+
+    Overall, I would have done it differently knowing what i know now about how figma works.  But that's the point I guess.
+    Forgive formatting on this text, all I have is text editor.
